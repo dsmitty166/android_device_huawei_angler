@@ -28,9 +28,9 @@ $(call inherit-product, vendor/du/config/nfc_enhanced.mk)
 
 PRODUCT_NAME := du_angler
 PRODUCT_DEVICE := angler
-PRODUCT_BRAND := Google
-PRODUCT_MODEL := Nexus 6p
+PRODUCT_BRAND := google
+PRODUCT_MODEL := Nexus 6P
 PRODUCT_MANUFACTURER := Huawei
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-BUILD_FINGERPRINT="google/angler/angler:6.0/MDB08M/2353240:user/release-keys"
+BUILD_FINGERPRINT="google/angler/angler:6.0.1/MMB29M/2431559:user/release-keys"
