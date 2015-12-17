@@ -1,8 +1,8 @@
 [
   {
-    "repository":   "DirtyUnicorns/android_kernel_huawei_angler",
+    "repository":   "dsmitty166/AK-Angler",
     "target_path":  "kernel/huawei/angler",
-    "branch":       "m"
+    "branch":       "ak-du"
   }
 ]
 
